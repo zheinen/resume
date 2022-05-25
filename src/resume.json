@@ -1,0 +1,138 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Zach Heinen",
+    "label": "Software Engineer 2",
+    "image": "",
+    "email": "zheinen80@gmail.com",
+    "phone": "(612) 419-0217",
+    "location": {
+      "city": "Burnsville",
+      "countryCode": "US",
+      "region": "Minnesota"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "floydawg",
+        "url": "https://twitter.com/floydawg"
+      },
+      {
+        "network": "Github",
+        "username": "zheinen",
+        "url": "https://github.com/zheinen"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "zach-heinen",
+        "url": "https://www.linkedin.com/in/zach-heinen-11a78431/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Frontline Education",
+      "location": "Remote",
+      "position": "Software Engineer 2",
+      "url": "http://frontlineeducation.com",
+      "startDate": "2021-01-01",
+      "highlights": [
+        "Interim Team Lead beginning April 2022 facilitating product and development team communication as well as supporting developers in their day-to-day tasks",
+        "Designed and implemented an HR Budget React application using react-table and react-query to display numerous tables to display HR data",
+        "Designed and implemented a React mapping application that communicated with the google maps api to display student demographics on a map",
+        "Erased tech debt on a plotly charting application that displays charts and graphs of student data",
+        "Wrote Cypress tests for end-to-end testing",
+        "Migrated existing functionless code from ExtJS to React",
+        "Participated in Agile/Scrum"
+      ]
+    },
+    {
+      "name": "Forecast5 Analytics (acquired by Frontline Education)",
+      "location": "Remote",
+      "position": "Front End Developer",
+      "url": "http://forecast5analytics.com",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "highlights": [
+        "Started learning React to combine the GuideK12 mapping tool and the Forecast5 ExtJS mapping tool into a new React-based product",
+        "Continued support for GuideK12 tools"
+      ]
+    },
+    {
+      "name": "GuideK12 (acquired by Forecast5 Analytics)",
+      "location": "Remote",
+      "position": "Software Engineer",
+      "url": "http://guidek12.com",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01",
+      "highlights": [
+        "Designed and implemented a new python/javascript trend analysis tool that used past student trends to predict demographics in the future."
+      ]
+    },
+    {
+      "name": "Excensus (acquired by GuideK12)",
+      "location": "Eagan, MN",
+      "position": "Software Engineer",
+      "startDate": "2011-10-25",
+      "endDate": "2019-01-01",
+      "highlights": [
+        "Implemented python/javascript application for parents to find out their child's enrolled school just by entering their address, including charter schools, private schools, etc",
+        "Implemented a mapping tool that used python/javascript and the google maps API to map student demographics filtered on almost any criteria",
+        "Implemented a boundary planning tool for districts to make future enhancments to their school boundaries based off of the mapping tool mentioned above"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ohio University",
+      "area": "Physics",
+      "studyType": "Ph. D",
+      "startDate": "2002-09-01",
+      "endDate": "2009-06-01"
+    },
+    {
+      "institution": "Univ. of MN - Morris",
+      "area": "Math and Physics",
+      "studyType": "Bachelors",
+      "startDate": "1998-09-01",
+      "endDate": "2002-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front End",
+      "keywords": [
+        "React Hooks",
+        "React Table",
+        "React Query",
+        "React Context",
+        "JavaScript",
+        "jQuery",
+        "HTML/CSS"
+      ]
+    },
+    {
+      "name": "Back End",
+      "keywords": ["Python", "AWS"]
+    },
+    {
+      "name": "Version Control",
+      "keywords": ["Github"]
+    },
+    {
+      "name": "Testing",
+      "keywords": ["Cypress"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
